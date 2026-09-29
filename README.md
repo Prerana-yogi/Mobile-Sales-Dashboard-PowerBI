@@ -18,5 +18,3 @@ Power BI dashboard analyzing 769M in mobile sales from 4K transactions. Identifi
 
 ## Tools & Skills
 Power BI, DAX, Data Visualization, KPI Dashboard, Business Analysis
-
-## Dashboard Preview 
