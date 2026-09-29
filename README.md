@@ -23,5 +23,5 @@ Power BI, DAX, Data Visualization, KPI Dashboard, Business Analysis
 
 ### Mobile Sales Dashboard
 
-![Mobile Sales Dashboard] 
-(mobile-sales-dashboard.png)
+![Mobile-Sales-Dashboard](./
+mobile-sales-dashboard.png)
